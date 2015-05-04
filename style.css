@@ -42,7 +42,8 @@ Use it to make something cool, have fun, and share what you've learned with othe
  * Custom Site Styles
  * -----------------------------------------------------------------------------
  */
-a {
+
+a, .entry-content a, .entry-summary a, .page-content a, .comment-content a {
 	text-decoration: none;
 }
 
