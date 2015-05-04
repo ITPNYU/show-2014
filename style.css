@@ -45,3 +45,8 @@ Use it to make something cool, have fun, and share what you've learned with othe
 #schedule-holder td{
 	padding: 5px;
 }
+
+.disabled {
+	color: #777;
+  background-color: #eee;
+}
