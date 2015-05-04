@@ -38,12 +38,21 @@ Use it to make something cool, have fun, and share what you've learned with othe
         text-transform: none;
 }
 
+/**
+ * Custom Site Styles
+ * -----------------------------------------------------------------------------
+ */
+
 .site-content {
 	padding: 0 30px;
 }
 
 #schedule-holder td{
 	padding: 5px;
+}
+
+#schedule-holder thead td{
+	font-weight: bold;
 }
 
 .disabled {
